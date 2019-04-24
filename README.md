@@ -1,7 +1,7 @@
 # Visual-Hoax-for-UEFI-Shell
 
 ## Goal
-Demonstration of how to implement useless software tools to access
+Demonstration of how to implement hoax software tools to access
 the Intel BayTrail (BYT) platform hardware or data structures directly or
 by UEFI API.
 
